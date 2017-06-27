@@ -29,6 +29,7 @@ class RomanNumeralCalculatorTests: XCTestCase {
         XCTAssertEqual(toRoman(4), "IV")
         
         // Tests should only test the core unit functionality of your app, especially unit tests.
+        //UITests are for the UI
     }
     
     func testPerformanceExample() {
